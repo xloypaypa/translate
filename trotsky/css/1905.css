@@ -1,0 +1,414 @@
+
+.ft { font-size: 11pt;
+    color: blue;
+    font-weight: normal;
+    font-family: "new york" }
+
+.letter { color: black;
+    font-weight: bold;
+    font-size: 28pt }
+
+span.desc { font-size: 12pt;
+    font-weight: bold;
+    text-property: italic;
+    text-align: left;
+    font-family: "Georgia";
+    text-indent: 0;
+    margin-right: 6%;
+    margin-left: 2% }
+
+span.inote {
+    color: maroon;
+    font-size: 10pt;
+    font-family: "Times New Roman", serif;
+    font-weight: normal
+}
+
+span.lt { color: red;
+    font-family: "Times New Roman";
+    font-size: 17pt;
+    font-weight: bold }
+span.lt2 { color: red;
+    font-family: "Times New Roman";
+    font-size: 22pt;
+    font-weight: bold }
+
+span.note {
+    color: blue;
+    font-weight: lighter;
+    font-family: "Times New Roman";
+    font-size: 10pt;
+}
+
+
+blockquote { color: black;
+    font-size: 11pt;
+    text-align: justify;
+    text-indent: 0;
+    margin-right: 7%;
+    margin-left: 7% }
+
+blockquote p { text-align: left;
+    text-indent: 0 }
+
+.DIFF { color: black;
+    font-weight: bold;
+    font-size: 28pt;
+    font-family: ariel-black;
+    text-align: center }
+
+h1 { color: black;
+    font-weight: bold;
+    font-size: 38pt;
+    font-family: ariel-black;
+    text-align: center }
+
+h2 { color: teal;
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: serif;
+    text-align: center }
+
+
+h3 { color: teal;
+    font-weight: bold;
+    font-size: 28pt;
+    font-family: serif;
+    text-align: center }
+
+
+
+h4 { color: black;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: sans-serif;
+    text-align: center;
+    margin-right: 6%;
+    margin-left: 6% }
+
+h5 { color: black;
+    font-weight: normal;
+    font-size: 12pt;
+    font-family: arial;
+    text-align: center;
+    margin-right: 6%;
+    margin-left: 6% }
+
+h6 { color: black;
+    font-weight: normal;
+    font-size: 11pt;
+    font-family: serif, "Times Roman";
+    text-align: right;
+    margin-right: 12%;
+    line-height: 110%; }
+
+
+hr { width: 88%;
+    color: teal;
+    text-align: center;
+    height: 1px;
+}
+
+
+hr.section { width: 40%;
+    color: teal;
+    text-align: center;
+    height: 1px;
+}
+
+hr.end { width: 84%;
+    color: teal;
+    text-align: center;
+    height: 1px;
+}
+
+sup.ednote {
+    background: transparent;
+    color: #330000; font-family : "Courier New", monospace;
+    font-size: x-small;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+p { color: black;
+    font-size: 12pt;
+    text-align: justify;
+    font-family: "Times New Roman", serif;
+    line-height: 130%;
+    text-indent: 1em;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.endnote { color: black;
+    font-size: 11pt;
+    text-indent: 0em;
+    text-align: justify;
+    font-family: serif; "New York";
+    line-height: 110%;
+    margin-right: 8%;
+    margin-left: 8% }
+
+p.information
+{ background: transparent;
+    color: #000000;
+    text-indent: 0em;
+    font-size: 10pt; font-family : "Times New Roman", serif;
+    line-height: 125%;
+    text-align: left;
+    margin-right: 8%; margin-left: 8% }
+
+p.sub { color: black;
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: center }
+
+p.DIFF { color: black;
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center }
+
+p.cap { font-size: 12pt;
+    text-align: justify;
+    text-indent: 0;
+    font-weight: bold;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.fst { font-size: 12pt;
+    text-align: justify;
+    font-family : "Times New Roman", serif;
+    text-indent: 0em;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.smc { font-size: 10pt;
+    text-align: center;
+    text-indent: 0;
+    margin-right: 0;
+    margin-left: 0; }
+
+p.sm1 { font-size: 10pt;
+    text-align: left;
+    text-indent: 0;
+    margin-right: 0;
+    margin-left: 0; }
+
+p.desc { font-size: 12pt;
+    text-align: justify;
+    font-family: "verdana", "arial", sans-serif;
+    line-height: 105%;
+    text-indent: 0em;
+    margin-right: 8%;
+    margin-left: 8% }
+
+p.desc1 { font-size: 12pt;
+    text-align: justify;
+    font-weight: bold;
+    font-family: "verdana", "arial", sans-serif;
+    text-indent: 0em;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.indent { font-size: 12pt;
+    text-align: left;
+    font-weight: normal;
+    font-family: "verdana", "arial", sans-serif;
+    text-indent: 0em;
+    margin-right: 6%;
+    margin-left: 16% }
+
+p.sig { color: black;
+    font-size: 12pt;
+    font-family: "Georgia";
+    font-weight: bold;
+    text-align: left;
+    text-property: italic;
+    text-indent: 0em;
+    margin-right: 6%;
+    margin-left: 7% }
+
+
+p.headlarge { color: black;
+;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 12pt;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: 0;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.head { color: black;
+;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 12pt;
+    text-align: center;
+    text-indent: 0;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.head2 { color: black;
+    text-align: justify;
+    font-weight: bold;
+    font-size: 33pt }
+
+p.header  { color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18pt;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.keyw { color: black;
+    font-weight: bold;
+    font-size: 11pt;
+    text-align: center;
+    text-indent: 0;
+    margin-right: 6%;
+    margin-left: 6% }
+
+p.index { color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 13pt;
+    text-align: left;
+    text-indent: 0em;
+    margin-right: 8%;
+    margin-left: 6% }
+
+p.linkback {
+    font-size: 12pt;
+    line-height: 110%;
+    text-align: center;
+    font-family: "Times New Roman", serif, "New York";
+    text-indent: 0;
+}
+
+p.updat {
+    font-size: 9pt;
+    line-height: 100%;
+    text-align: right;
+    font-family: "Times New Roman", serif, "New York";
+    text-indent: 0;
+}
+
+p.quote { color: black;
+    font-size: 11pt;
+    text-align: justify;
+    font-family: "Times New Roman", serif, "New York"
+    text-indent: 1em;
+    line-height: 110%;
+    margin-right: 12%;
+    margin-left: 12% }
+
+p.quoteb { color: black;
+    font-size: 11pt;
+    text-align: justify;
+    font-family: "Times New Roman", serif, "New York";
+    text-indent: 0;
+    line-height: 120%;
+    margin-right: 12%;
+    margin-left: 12% }
+
+p.c { color: black;
+    font-size: 11pt;
+    text-align: center;
+    text-indent: 0;
+    line-height: 110%;
+}
+
+span { color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14pt }
+
+table { text-align: center;
+    text-indent: 0 }
+
+table2 { text-align: center;
+    text-indent: 0 }
+/* ~~~~~~~ Footnotes ~~~~~~~~~~~~~~~~~~ */
+
+/* Author's */
+sup.anote {
+    background: transparent;
+    color: #330000; font-family : "Times", serif;
+    font-size: x-small;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Editor's */
+sup.enote {
+    background: transparent;
+    color: #330000; font-family : "Courier New", monospace;
+    font-size: x-small;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/* Editorial notes in text */
+span.inote {
+    background: transparent;
+    color: #666666; font-family : "Times New Roman", serif;
+    font-size: 12pt;
+    font-weight: normal;
+}
+
+/* ~~~~~~~ Misc ~~~~~~~~~~~~~~~~~~ */
+
+/* Used in the info block */
+span.info {
+    background: transparent;
+    color: #330000; font-family: "Arial", sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+/* indiscreet text (primarily for dates) */
+span.date {
+    background: transparent;
+    color: #333333;
+    font-family: "Arial", sans-serif;
+    font-size: small;
+    font-weight: normal;
+}
+
+/* Used for notes in the text 			*/
+/* Also to bold book titles in p.index  */
+span.term {
+    background: transparent;
+    color: #330000; font-family : "Arial", sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+/* abstracts */
+span.context {  background: transparent;
+    color: #999999 }
+
+/*Greek text */
+
+
+
+/* =====================================*/
+/* Adjustments for Mobile Devices       */
+/* =====================================*/
+
+@media (max-width: 480px) {
+    p { font-size: 12pt; margin-left: 1%; margin-right: 1%; margin-bottom: 4pt; margin-top: 4pt; line-height: 125%; }
+    p.indentb { margin-left: 6%; margin-right: 1%; }
+    p.quoteb { margin-left: 6%; margin-right: 1%; }
+    p.index { margin-left: 6%; margin-right: 1%; }
+    h1 { font-size: 18pt; margin-left: 1%; margin-right: 1%; }
+    h2 { font-size: 16pt; margin-left: 1%; margin-right: 1%; }
+    h3 { font-size: 14pt; margin-left: 1%; margin-right: 1%; }
+    h4 { font-size: 13pt; }
+    h5 { margin-left: 1%; }
+    h6 { margin-left: 1%; }
+    img { width: 150px; height: auto; }
+    img.auto {width: auto ; height: auto; }
+    blockquote {margin-left: 1%; }
+}
