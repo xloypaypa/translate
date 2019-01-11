@@ -15,4 +15,6 @@
 
 已翻译的内容
 ===========================
-[托洛茨基最后的文章:波拿巴主义，法西斯主义与战争](https://xloypaypa.github.io/translate/trotsky/1940/08/last-article.html)
+* 托洛茨基
+  * [托洛茨基最后的文章:波拿巴主义，法西斯主义与战争](https://xloypaypa.github.io/translate/trotsky/1940/08/last-article.html)
+  * [1905 （翻译中）](https://xloypaypa.github.io/translate/trotsky/1907/1905/index.html)
